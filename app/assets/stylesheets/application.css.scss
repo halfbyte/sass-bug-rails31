@@ -1,0 +1,11 @@
+/*
+ * FIXME: Introduce SCSS & Sprockets
+ *= require_self
+ */
+@import 'lib/gnarf';
+
+#bar {
+  width: 200px;
+  /* @include goob; */
+}
+  
